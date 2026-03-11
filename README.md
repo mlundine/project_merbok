@@ -14,14 +14,9 @@ Setup:
 
 Directory strucure
 
-root
-    G#
-        C#
-            RR##
-                SSS###
-                
+root/G#/C#/RR##/SSS###
 
-4) Configure settings with config_gui.py
+4) Configure paths and settings with config_gui.py
 
 ```python config_gui.py```
 
